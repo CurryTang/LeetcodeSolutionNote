@@ -1,3 +1,3 @@
-# leetcodeCSolution
+# leetcodeSolution
 LeetCode Solution Note 
 Categorized 
