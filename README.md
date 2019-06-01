@@ -1,2 +1,3 @@
 # leetcodeCSolution
-Leetcode solution in c
+LeetCode Solution Note 
+Categorized 
